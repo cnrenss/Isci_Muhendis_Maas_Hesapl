@@ -1,0 +1,16 @@
+C:\Users\cnren\c#\mühendisisci\mühendisisci\bin\Debug\net6.0-windows\mühendisisci.exe
+C:\Users\cnren\c#\mühendisisci\mühendisisci\bin\Debug\net6.0-windows\mühendisisci.deps.json
+C:\Users\cnren\c#\mühendisisci\mühendisisci\bin\Debug\net6.0-windows\mühendisisci.runtimeconfig.json
+C:\Users\cnren\c#\mühendisisci\mühendisisci\bin\Debug\net6.0-windows\mühendisisci.dll
+C:\Users\cnren\c#\mühendisisci\mühendisisci\bin\Debug\net6.0-windows\mühendisisci.pdb
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.Form1.resources
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.csproj.GenerateResource.cache
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.AssemblyInfoInputs.cache
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.AssemblyInfo.cs
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.csproj.CoreCompileInputs.cache
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.dll
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\refint\mühendisisci.dll
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.pdb
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\mühendisisci.genruntimeconfig.cache
+C:\Users\cnren\c#\mühendisisci\mühendisisci\obj\Debug\net6.0-windows\ref\mühendisisci.dll
